@@ -2,7 +2,7 @@
 
 Este perfil do GitHub está contando minha história no mundo de tecnologia. No momento estou no nível de desenvolvedor web FullStack jr. Sou apaixonado por tecnologia e por desafios. Espero que goste da minha trajetória. No momento estou gostando mais de trabalhar com tecnologias Back-End.
 
-![image]({https://www.codewars.com/users/MatheusXI/badges/micro})
+![image](https://www.codewars.com/users/MatheusXI/badges/micro)
 
 <img src="https://www.codewars.com/users/MatheusXI/badges/micro" />
 
