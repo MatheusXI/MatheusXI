@@ -4,7 +4,7 @@ Este perfil do GitHub está contando minha história no mundo de tecnologia. No 
 
 ![image]({https://www.codewars.com/users/MatheusXI/badges/micro})
 
-<img src="{https://www.codewars.com/users/MatheusXI/badges/micro}" />
+<img src="https://www.codewars.com/users/MatheusXI/badges/micro" />
 
 - 🔭 Disponível para trabalho!
 
