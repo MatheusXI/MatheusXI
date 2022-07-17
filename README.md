@@ -1,4 +1,6 @@
-### Oi, eu sou o Matheus! Este perfil do GitHub está contando minha história no mundo de tecnologia. No momento estou no nível de desenvolvedor web FullStack jr. Sou apaixonado por tecnologia e por desafios. Espero que goste da minha trajetória. No momento estou gostando mais de trabalhar com tecnologias Back-End.
+### Oi, eu sou o Matheus!
+
+Este perfil do GitHub está contando minha história no mundo de tecnologia. No momento estou no nível de desenvolvedor web FullStack jr. Sou apaixonado por tecnologia e por desafios. Espero que goste da minha trajetória. No momento estou gostando mais de trabalhar com tecnologias Back-End.
 
 - 🔭 Disponível para trabalho!
 - 🌱 No momento estou aprendendo Python 🐍
