@@ -10,7 +10,7 @@ Este perfil do GitHub está contando minha história no mundo de tecnologia. No 
 
 - 🌱 No momento estou aprendendo Python 🐍
 
-- 📫 Me ache em: Email: matheus.castro.macedoxi@gmail.com
+- 📫 Me ache em: Email: matheus.castro.macedo.xi@gmail.com
 
 - 😄 Pronouns: Ele/Dele
 
